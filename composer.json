@@ -1,5 +1,5 @@
 {
-    "name": "igorhaf/laravel-admin",
+    "name": "molacorban/laravel-admin",
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
@@ -11,8 +11,8 @@
             "email": "zosong@126.com"
         },
         {
-            "name": "igorhaf",
-            "email": "igorhaf@gmail.com"
+            "name": "molacorban",
+            "email": "andre.smolianinoff@molacorban.com.br"
         }
     ],
     "require": {
